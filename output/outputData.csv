@@ -1,0 +1,96 @@
+{
+  "totalSize" : 10,
+  "done" : true,
+  "records" : [ {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcfTQAQ"
+    },
+    "Id" : "0015Y00002cxcfTQAQ",
+    "Name" : "Sample Account for Entitlements"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYjQAI"
+    },
+    "Id" : "0015Y00002cxcYjQAI",
+    "Name" : "Edge Communications"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYkQAI"
+    },
+    "Id" : "0015Y00002cxcYkQAI",
+    "Name" : "Burlington Textiles Corp of America"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYlQAI"
+    },
+    "Id" : "0015Y00002cxcYlQAI",
+    "Name" : "Pyramid Construction Inc."
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYmQAI"
+    },
+    "Id" : "0015Y00002cxcYmQAI",
+    "Name" : "Dickenson plc"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYnQAI"
+    },
+    "Id" : "0015Y00002cxcYnQAI",
+    "Name" : "Grand Hotels & Resorts Ltd"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYoQAI"
+    },
+    "Id" : "0015Y00002cxcYoQAI",
+    "Name" : "United Oil & Gas Corp."
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYpQAI"
+    },
+    "Id" : "0015Y00002cxcYpQAI",
+    "Name" : "Express Logistics and Transport"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYqQAI"
+    },
+    "Id" : "0015Y00002cxcYqQAI",
+    "Name" : "University of Arizona"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYrQAI"
+    },
+    "Id" : "0015Y00002cxcYrQAI",
+    "Name" : "United Oil & Gas, UK"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYsQAI"
+    },
+    "Id" : "0015Y00002cxcYsQAI",
+    "Name" : "United Oil & Gas, Singapore"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYtQAI"
+    },
+    "Id" : "0015Y00002cxcYtQAI",
+    "Name" : "GenePoint"
+  }, {
+    "attributes" : {
+      "type" : "Account",
+      "url" : "/services/data/v22.0/sobjects/Account/0015Y00002cxcYuQAI"
+    },
+    "Id" : "0015Y00002cxcYuQAI",
+    "Name" : "sForce"
+  } ]
+}
